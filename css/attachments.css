@@ -1,0 +1,14 @@
+#attach_text {
+	color: #00C;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#attach_file img {
+	vertical-align: middle
+}
+
+.remove_attachment {
+	color: rgb(219, 68, 55);
+	cursor: pointer;
+}

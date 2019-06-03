@@ -1,0 +1,36 @@
+table {
+	text-align: center;
+	border-collapse: collapse;
+}
+
+tbody th {
+	text-align: right;
+}
+
+table td {
+  width: 30px;
+}
+
+table td {
+  text-align: center;
+  padding: 10px 5px;
+  border: 1px solid #ccc;
+}
+thead th {
+  height: 140px;
+  white-space: nowrap;
+}
+thead th > div {
+  -webkit-transform: translate(27px, 52px) rotate(315deg);
+      -ms-transform: translate(27px, 52px) rotate(315deg);
+          transform: translate(27px, 52px) rotate(315deg);
+  width: 30px;
+}
+thead th > div > span {
+  border-bottom: 1px solid #ccc;
+  padding: 5px 10px;
+}
+tbody th {
+  padding: 0 10px;
+  border-bottom: 1px solid #ccc;
+}
