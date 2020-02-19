@@ -83,3 +83,7 @@ p {
 .message_container:target {
     background-color: #f0f7f9;
 }
+
+.message img {
+  max-width: 100%;
+}
