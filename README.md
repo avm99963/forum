@@ -35,6 +35,8 @@ stranger called **iq** posted the following message in the forum:
 
 > تقوم بعمل رائع استمر في ذالك
 
+![Screenshot of the nice thread in the forum](./docs/img/thread.webp)
+
 Which translates as (thanks Google Translate):
 
 > You're doing a great job, keep it up
