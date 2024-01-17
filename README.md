@@ -21,7 +21,7 @@ Many modern websites are sloooooow and bloated with unnecessary things. As a
 [Google Product Expert][1], I have been able to experience this with the engine
 that powered Pistachio's successor: a custom version of Google Groups. This
 project was a way of building the engine that I missed so much, and to show the
-world that forums which load fast are possible :)
+world that fast loading forums are possible :)
 
 It has been a long time since I hacked this project (it's 2024 as I'm writing
 this!) so I don't remember exactly why, but at some point I left the project
@@ -50,8 +50,8 @@ the entire website didn't sanitize any user input, so it was plagued with XSSs
 everywhere. 🙃 That's when I decided to write this README file.
 
 ## Did you like the story?
-I had fun writing the story, even if it is a short one (but I feel that good and
-short is much better than long and boring! :)). If you came all the way here,
-maybe you're also up to [hire me](https://www.avm99963.com/)? ;)
+I had fun writing the story, even if it is a short one (but I feel that short
+and sweet is much better than long and boring! :)). If you came all the way
+here, maybe you're also up to [hire me](https://www.avm99963.com/)? ;)
 
 [1]: https://productexperts.withgoogle.com/
