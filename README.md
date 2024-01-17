@@ -1,8 +1,8 @@
 # forum
 
 Unmaintained project which pays tribute to Pistachio: the old forum engine which
-powered the Google Forums. It tries to mimick its original styles but uses
-modern CSS.
+powered the Google Forums. It tries to mimic its original styles but uses modern
+CSS.
 
 > [!CAUTION]
 > **DO NOT HOST THIS PUBLICLY. This project is unmaintained and has known
@@ -24,14 +24,14 @@ project was a way of building the engine that I missed so much, and to show the
 world that forums which load fast are possible :)
 
 It has been a long time since I hacked this project (it's 2024 as I'm writing
-this!) so I don't remember exactly why, but at some point I left the project and
-it was left in the state that it is right now.
+this!) so I don't remember exactly why, but at some point I left the project
+unfinished in the state that it is in right now.
 
 During the Covid-19 pandemic and online university classes I decided to host a
 forum using this software to help my classmates share doubts and answer them (as
 a Q&A platform, which is what it was meant to be, just like the Google Forums).
 Unfortunately it didn't take off... except for the fact that in 2021, a random
-stranger called **iq** posted the following message in the forum:
+stranger called **iq** posted the following message in the test forum:
 
 > تقوم بعمل رائع استمر في ذالك
 
